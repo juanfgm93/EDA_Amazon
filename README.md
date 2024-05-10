@@ -10,5 +10,5 @@ The purpose of this repository is to conduct an Exploratory Data Analysis of pro
 
 ### Project Structure
 
-- data/: This directory contains the Amazon dataser.
+- data/: This directory contains the Amazon datasets.
 - notebooks/: This directory contains Jupyter notebooks with the exploratory data analysis code.
