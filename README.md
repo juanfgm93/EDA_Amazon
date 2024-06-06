@@ -66,12 +66,11 @@ The pie chart shows that around 3.5% of product data within the Top10 manufactur
 
 A violin plot was created to understand how price is distributed across the top10 manufacturers.
 <div style="text-align: center;">
-  <img src="images/price_distribution_across_manufacturers.png" alt="Top 10 Manufacturers" width="500"/>
+  <img src="images/price_distribution_across_manufacturers.png" alt="Top 10 Manufacturers" width="700"/>
 </div>
 
-<p style="margin-top: 20px;">
 Main insights:
 - Puma, Red, Adidas and Levi's display a wide range of prices. Puma and Levi's have a thicker section around the median, suggesting that most products in these brands fall within this price range.
 - Campus, US and Amazon have a more condensed price distribution, displaying a majority of products priced in the lower to mid-range.
 - Van, Clovia and Pepe have a bimodal distribution, indicating two major groups of product prices.
-</p>
+
