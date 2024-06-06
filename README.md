@@ -26,5 +26,12 @@ Here is the bar plot displaying Top10 most popular manufacturers:
 <p style="margin-top: 20px;">
 The plot shows the number of items among the top manufacturers. According to the above visualization, Puma is the most popular brand.
 </p>
+In the next image, the most popular categories in the Top10 manufacturers are shown.
+<div style="text-align: center;">
+  <img src="images/categories_popularity.png" alt="Top 10 Manufacturers" width="500"/>
+</div>
 
+<p style="margin-top: 20px;">
+The plot shows the number of items among categories. The most popular category in Top10 manufacturers is men's clothing.
+</p>
 
