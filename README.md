@@ -26,6 +26,7 @@ Here is the bar plot displaying Top10 most popular manufacturers:
 <p style="margin-top: 20px;">
 The plot shows the number of items among the top manufacturers. According to the above visualization, Puma is the most popular brand.
 </p>
+
 In the next image, the most popular categories in the Top10 manufacturers are shown.
 <div style="text-align: center;">
   <img src="images/categories_popularity.png" alt="Top 10 Manufacturers" width="500"/>
@@ -34,4 +35,17 @@ In the next image, the most popular categories in the Top10 manufacturers are sh
 <p style="margin-top: 20px;">
 The plot shows the number of items among categories. The most popular category in Top10 manufacturers is men's clothing.
 </p>
+
+Next, we analyzed the main subcategories in Amazon within the top10 manufacturers considering the top5 categories.
+<div style="text-align: center;">
+  <img src="images/top10_subcategories.png" alt="Top 10 Manufacturers" width="500"/>
+</div>
+
+<p style="margin-top: 20px;">
+The plot shows the number of items among subcategories. The most popular subcategory is Sports Shoes, followed by Shirts and T-shirts & Polos.
+</p>
+
+
+
+
 
