@@ -14,3 +14,9 @@ The purpose of this repository is to conduct an Exploratory Data Analysis of pro
 
 - amazon_data_files: This directory contains the Amazon datasets.
 - notebooks: This directory contains Jupyter notebooks with the exploratory data analysis code.
+
+---
+### Data Visualization
+
+Here is the bar plot displaying Top10 most popular manufacturers:
+![Top 10 Manufacturers](images/top10_manufacturers.png)
