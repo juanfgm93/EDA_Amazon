@@ -19,8 +19,12 @@ The purpose of this repository is to conduct an Exploratory Data Analysis of pro
 ### Data Visualization
 
 Here is the bar plot displaying Top10 most popular manufacturers:
-<img src="images/top10_manufacturers.png" alt="Top 10 Manufacturers" width="500"/>
-<p style="margin-top: 20px;">
+<div style="text-align: center;">
+  <img src="images/top10_manufacturers.png" alt="Top 10 Manufacturers" width="500"/>
+</div>
 
+<p style="margin-top: 20px;">
 The plot shows the number of items among the top manufacturers. According to the above visualization, Puma is the most popular brand.
+</p>
+
 
