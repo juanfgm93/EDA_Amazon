@@ -64,9 +64,9 @@ Then, we analyzed the presence of outliers regarding product prices.
 The pie chart shows that around 3.5% of product data within the Top10 manufacturers are outliers.
 </p>
 
-A violin plot was created to understand how price is distributed across the top10 manufacturers.
+Finally, a violin plot was created to understand how price is distributed across the top10 manufacturers.
 <div style="text-align: center;">
-  <img src="images/price_distribution_across_manufacturers.png" alt="Top 10 Manufacturers" width="700"/>
+  <img src="images/price_distribution_across_manufacturers.png" alt="Top 10 Manufacturers" width="900"/>
 </div>
 
 Main insights:
