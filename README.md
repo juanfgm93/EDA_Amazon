@@ -21,5 +21,7 @@ The purpose of this repository is to conduct an Exploratory Data Analysis of pro
 Here is the bar plot displaying Top10 most popular manufacturers:
 <img src="images/top10_manufacturers.png" alt="Top 10 Manufacturers" width="500"/>
 
+
+
 The plot shows the number of items among the top manufacturers. According to the above visualization, Puma is the most popular brand.
 
