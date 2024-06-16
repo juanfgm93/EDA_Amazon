@@ -52,7 +52,7 @@ In the following graph, price distribution is displayed across the Top10 manufac
 </div>
 
 <p style="margin-top: 20px;">
-The histogram reveals that the majority of products are sold in the price range of approximately `10` to `4000`. However, there's a long tail on the right side, indicating that there are products sold at much higher prices. The Kernel Density Estimate (the smooth line) also shows the right-skewed nature of the distribution.
+The histogram reveals that the majority of products are sold in the price range of approximately `10` to `4000`. However, there's a long tail on the right side, indicating that there are products sold at much higher prices. The Kernel Density Estimate (the smooth line) also shows the right-skewed nature of the data distribution.
 </p>
 
 Then, we analyzed the presence of outliers regarding product prices.
