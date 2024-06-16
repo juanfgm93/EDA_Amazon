@@ -19,7 +19,7 @@ The purpose of this repository is to conduct an Exploratory Data Analysis of pro
 ---
 ### Data Visualization
 
-After carefully performing data wrangling, we proceeded to visualize product data through diverse plots to understand trends and patters. Here is a bar plot displaying the Top10 most popular manufacturers:
+After carefully performing data wrangling, we proceeded to visualize product data through diverse types of plots to understand trends and patters. Here is a bar plot displaying the Top10 most popular manufacturers:
 <div style="text-align: center;">
   <img src="images/top10_manufacturers.png" alt="Top 10 Manufacturers" width="500"/>
 </div>
