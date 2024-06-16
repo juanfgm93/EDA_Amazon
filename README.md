@@ -72,7 +72,7 @@ Finally, a violin plot was created to understand how price is distributed across
 ---
 ### Conclusions:
 1) The most popular brand is Puma.
-2) The most popular category in Top10 manufacturers is men's clothing.
+2) The most popular category in Top10 manufacturers is 'men's clothing'.
 3) The most popular subcategory is Sports Shoes, followed by Shirts and T-shirts & Polos.
 4) The products with price less than ₹4000 are more popular.
 5) Around 3.5% of product data within the Top10 manufacturers are outliers.
