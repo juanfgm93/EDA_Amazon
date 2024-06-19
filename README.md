@@ -11,8 +11,10 @@ The purpose of this repository is to conduct an Exploratory Data Analysis of pro
 
 ---
 ### Project Structure
-
+#### 1. Extract data
+. Uses of Amazon API
 - amazon_data_files: This directory contains the Amazon datasets.
+#### 2. Data transformation and EDA
 - notebooks: This directory contains Jupyter notebooks with the exploratory data analysis code.
 - images: This directory stores images generated during the EDA.
 
